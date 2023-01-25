@@ -6,7 +6,7 @@ function App() {
   }
 
   function mouseHover () {
-    console.log("I was hovered!")
+    console.log("I'm being hovered!")
   }
 
   return (
